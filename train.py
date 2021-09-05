@@ -1,0 +1,1 @@
+NULL is /c/WINDOWS/system32/NULL
